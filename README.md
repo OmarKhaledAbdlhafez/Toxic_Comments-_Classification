@@ -1,4 +1,4 @@
-# Toxic_Comments-_Classification
+# Toxic_Comments_Classification
 ## working with  [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification) kaggle Competition which target Detect toxicity across a diverse range of conversations
 ### my main goal was to apply different approach to learn more and dive in more into nlp models  , the dataset was so imbalance so i use undersampling method to override this problem 
 - the frist & second notebook i apply the same thing , i try to using classic representation of text like countvector & TFIDF and use any machine learning model to do classification and the results was very good even i don't do any pr-processing for data check the code on kaggle [here](https://www.kaggle.com/code/omarkhald/01-classic-nlp-solution) and [here](https://www.kaggle.com/code/omarkhald/02-classic-nlp-solution)
